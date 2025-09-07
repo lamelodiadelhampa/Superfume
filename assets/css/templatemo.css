@@ -103,6 +103,7 @@ body, ul, li, p, a, label, input, div {
 #carousel-related-product .slick-dots li button:before {
   font-size: 15px;
   margin-top: 20px;
+  color: #212934;
 }
 /* Brand */
 .brand-img {
@@ -118,6 +119,7 @@ body, ul, li, p, a, label, input, div {
 #template-mo-zay-hero-carousel .carousel-indicators li {
   margin-top: -50px;
   background-color: #fff;
+  color: #212934;
 }
 #template-mo-zay-hero-carousel .carousel-control-next i,
 #template-mo-zay-hero-carousel .carousel-control-prev i {
